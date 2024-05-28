@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absievil&label=Profile%20views&color=0e75b6&style=flat" alt="absievil" /> </p>
 
-- 🔭 I am currently studying CS at [HCMUT](https://hcmut.edu.vn/)
+- 🔭 I am currently studying Computer Science at [HCMUT](https://hcmut.edu.vn/)
 
 - 🌱 I’m currently learning **Basic Forensic Security, Spring Framework, ReactJs**
 
