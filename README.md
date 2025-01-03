@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Basic Forensic Security, Spring Framework, ReactJs**
 
-- 📖 Outstanding project: [Hospital Management Website](https://ngoc-chau-hospital.azurewebsites.net), [POS System Website](https://github.com/ABsievil/POS_System) 
+- 📖 Outstanding project: [SSPS-Student Smart Printing Service](https://hcmut-spss.azurewebsites.net), [Hospital Management Website](https://ngoc-chau-hospital.azurewebsites.net), [POS System Website](https://github.com/ABsievil/POS_System) 
 
 - 👨‍💻 All of my projects are available at [https://github.com/ABsievil](https://github.com/ABsievil)
 
