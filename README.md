@@ -7,19 +7,19 @@
 
 - 🔭 I am currently studying Computer Science at [VNU-HCMUT](https://hcmut.edu.vn/)
 
-- 🌱 I’m currently learning **Basic Forensic Security, Spring Framework, ReactJs**
+- 🌱 I’m currently learning Backend Framework such as: **Spring Boot Framework, ReactJs, NestJs, ReactNative**
 
-- 📖 Outstanding project: [SSPS-Student Smart Printing Service](https://hcmut-spss.azurewebsites.net), [Hospital Management Website](https://ngoc-chau-hospital.azurewebsites.net), [POS System Website](https://github.com/ABsievil/POS_System) 
+- 📖 Outstanding project: [Examify-System](https://examify-online.azurewebsites.net/), [SSPS-Student Smart Printing Service](https://hcmut-ssps.azurewebsites.net), [Hospital Management Website](https://ngoc-chau-hospital.azurewebsites.net), [POS System Website](https://github.com/ABsievil/POS_System) 
 
 - 👨‍💻 All of my projects are available at [https://github.com/ABsievil](https://github.com/ABsievil)
 
-- 💬 Ask me about **Basic Security, How to build Spring project**
+- 💬 Ask me about **Website Development, Basic Security**
 
 - 📫 How to reach me: **nccuong317qb@gmail.com**
 
-- 📄 Know about my experiences [#](#)
+- 📄 Know about my experiences [Résume](https://drive.google.com/file/d/1QnJZ8dz99TvI_pZrz4mPZq8h_-APKs_M/view?usp=sharing)
 
-- ⚡ Fun fact: **I am still quite young in approaching security and website**
+- ⚡ Fun fact: **I have a little experience in website development with Spring Boot Framework**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
